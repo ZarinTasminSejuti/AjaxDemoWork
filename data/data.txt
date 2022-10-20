@@ -1,0 +1,2 @@
+<h1>Content Change by using AJAX</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum illo dolor odit perferendis itaque laboriosam, cum, ad rem aliquam voluptatum repellat in earum quia, fugit deleniti mollitia delectus similique nihil.</p>
